@@ -4,7 +4,7 @@
 软件整体代码结构
 -----
 除了others目录和dist目录（dist目录为软件打包为.exe格式用来存放该应用程序的目录）的文件，其他的包都会被slws.py文件调用。
-![]https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/1.png
+![](https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/1.png)
 others目录里的文件：
 ----
 Predict：用于训练数据分析模型
