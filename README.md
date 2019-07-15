@@ -5,7 +5,7 @@
 -----
 除了others目录和dist目录（dist目录为软件打包为.exe格式用来存放该应用程序的目录）的文件，其他的包都会被slws.py文件调用。
 
-![Image text](https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/1.png)
+![add image](https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/1.png)
 
 others目录里的文件：
 ----
