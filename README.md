@@ -26,9 +26,11 @@ others目录里的文件：
 注册界面
 -----
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/5.png)
+
 navicat for mysql软件里的senyan数据库界面
 ----
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/6.png)
+
 表point3数据
 -----
 >>不要问表为什么这么整齐，因为是使用数据生成器生成的
