@@ -9,7 +9,7 @@ others目录里的文件：
 ----
 Predict：用于训练数据分析模型
 数据生成器：用于模拟下位机硬件向软件发送数据
-
+introducepicture/1.png
 登录界面
 -----
 可使用账号+密码登录：root+root
