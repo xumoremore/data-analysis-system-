@@ -31,4 +31,4 @@ navicat for mysql软件里的senyan数据库界面
 不要问表为什么这么整齐，因为是使用数据生成器生成的
 
 
-![Image text](https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/1.png)
+![Image text](https://github.com/xumoremore/data-analysis-system-/tree/master/introducepicture/2.png)
