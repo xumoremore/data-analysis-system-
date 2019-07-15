@@ -11,6 +11,7 @@ others目录里的文件：
 ----
 Predict：用于训练数据分析模型
 数据生成器：用于模拟下位机硬件向软件发送数据
+![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/2.png)
 
 登录界面
 -----
