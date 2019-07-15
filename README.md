@@ -1,7 +1,7 @@
 森林卫士
 ====
 >>主要用到的python库：tkinter，pymysql，numpy，opencv，matplotlib，pandas，sklearn，os，sys，serial，time<br>
-软件整体代码结构
+##软件整体代码结构
 -----
 >>除了others目录和dist目录（dist目录为软件打包为.exe格式用来存放该应用程序的目录）的文件，其他的包都会被slws.py文件调用。
 
