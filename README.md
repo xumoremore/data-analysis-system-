@@ -1,6 +1,8 @@
 森林卫士
 ====
 >>主要用到的python库：tkinter，pymysql，numpy，opencv，matplotlib，pandas，sklearn，os，sys，serial，time<br>
+代码要放在D盘下运行
+![image test](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/8.png)
 
 软件整体代码结构
 -----
