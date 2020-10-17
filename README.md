@@ -38,8 +38,9 @@
 ### 登录界面
 
     密码登陆：
-    账号：root   密码：oot<br>
-    人脸登陆：☞对/face_recognition/face_data/me目录下的人物图片做为可登陆判断。
+    账号：root  
+    密码：root
+    人脸登陆：只对/face_recognition/face_data/me目录下的人物图片做为可登陆判断。
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/3.png)
 
 ### 主界面
