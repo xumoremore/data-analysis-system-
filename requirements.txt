@@ -1,0 +1,8 @@
+tkinter
+pymysql
+numpy
+opencv
+matplotlib
+pandas
+sklearn
+serial
