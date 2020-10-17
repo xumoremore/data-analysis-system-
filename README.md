@@ -31,14 +31,15 @@
 
 下面链接为打包好的.exe可执行文件，可直接运行，但要使用数据库功能电脑需要安装mysql数据库。
 
-可执行文件链接：[软件链接](https://pan.baidu.com/s/128nFX1aRHE8157biClGq8Q)
+可执行文件链接：[百度网盘](https://pan.baidu.com/s/128nFX1aRHE8157biClGq8Q)
 
 提取码：prto 
 
 ### 登录界面
 
-    账号密码：root+root<br>
-    人脸登陆功能，至对/face_recognition/face_data/me目录下的人物图片做为可登陆判断。
+    密码登陆：
+    账号：root   密码：oot<br>
+    人脸登陆：☞对/face_recognition/face_data/me目录下的人物图片做为可登陆判断。
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/3.png)
 
 ### 主界面
@@ -48,7 +49,7 @@
 ### 注册界面
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/5.png)
 
-### navicat for mysql软件里的senyan数据库界面
+### 数据库
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/6.png)
 
 ### 其中一个数据表
