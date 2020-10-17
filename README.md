@@ -8,9 +8,9 @@
 
 ## 简介
 
-该项目为本人的毕业设计，目的在于为森林环境监控提供数据记录-保存-分析-可视化的功能。软件主体采用python3开发；界面开发使用的是tkinter框架；数据图表可视化使用的是matplotlib；使用mysql做数据存储；使用逻辑回归算法对自己采集打标的数据做训练，预测环境数据所处的等级。
+该项目为本人的毕业设计，目的在于为森林环境监控提供数据记录-保存-分析-可视化的功能。软件主体采用python3开发；界面开发使用的是tkinter框架；数据图表可视化使用的是matplotlib；使用mysql做数据存储；使用逻辑回归算法对自己采集打标的数据做训练，预测环境数据所处的等级；人脸识别使用特征级联算法将摄像头读取的图片与存储的图片做特征匹配计算特征相似度，以此来判断该人是否可登陆。
 
-关键词：`数据分析` , `数据库`, `人脸识别` , `可视化界面`, 
+关键词：`数据分析` , `数据库`, `人脸识别` , `可视化界面`
 
 ## 安装
 
@@ -44,7 +44,6 @@
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/3.png)
 
 ### 主界面
-
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/4.png)
 
 ### 注册界面
