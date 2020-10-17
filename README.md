@@ -1,4 +1,4 @@
-# 森林卫士
+# 数据分析软件
 
 
 ## 目录
@@ -8,14 +8,13 @@
 
 ## 简介
 
+该项目为本人的毕业设计，目的在于为森林环境监控提供数据记录-保存-分析-可视化的功能。软件主体采用python3开发；可视化界面使用tkinter框架；使用mysql做数据存储；使用逻辑回归算法对自己采集打标的数据做训练，预测环境数据所处的等级。
 
-背景介绍
 关键词：`数据分析` , `数据库`, `人脸识别` , `可视化界面`, 
 
 ## 安装
 
-    pip install -r requirements.txt
-    
+    pip install -r requirements.txt 
 
 ## 使用
 
@@ -30,13 +29,16 @@
 
 ### demo
 
-下面链接为打包好的.exe可执行文件，可执行运行，但要使用数据库电脑需要安装mysql数据库。
-提取码：prto 
-[软件链接](https://pan.baidu.com/s/128nFX1aRHE8157biClGq8Q)
+下面链接为打包好的.exe可执行文件，可直接运行，但要使用数据库功能电脑需要安装mysql数据库。
 
-    登录界面
+可执行文件链接：[软件链接](https://pan.baidu.com/s/128nFX1aRHE8157biClGq8Q)
+
+提取码：prto 
+
+### 登录界面
+
     账号密码：root+root<br>
-    也可以使用人脸一键登录：当然该软件只能通过本人的人脸进行登录（因为里面只有我的人脸数据）
+    人脸登陆功能，至对/face_recognition/face_data/me目录下的人物图片做为可登陆判断。
 ![Image text](https://github.com/xumoremore/data-analysis-system-/blob/master/introducepicture/3.png)
 
 ### 主界面
